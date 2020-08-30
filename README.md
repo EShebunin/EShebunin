@@ -4,4 +4,4 @@
 <p align='left'>С некоторыми моими работами вы можете ознакомиться перейдя по ссылкам ниже:</p>
 <a href='https://eshebunin.github.io/Fetch/'><u>Fetch</u>.</a>
 <a href='https://eshebunin.github.io/Person/'><u>Person</u>.</a>
-<a href='https://eshebunin.github.io/Loop/'><u>Person</u>.</a>
+<a href='https://eshebunin.github.io/Loop/'><u>Loop</u>.</a>
