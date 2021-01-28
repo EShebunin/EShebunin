@@ -5,4 +5,5 @@
 <a href='https://eshebunin.github.io/Person/'><u>Person</u>.</a>
 <a href='https://eshebunin.github.io/Dashboard/'><u>Dashboard</u>.</a>
 <a href='https://eshebunin.github.io/Loop/'><u>Loop</u>.</a>
+<a href='https://eshebunin.github.io/test-work-form-registration/'><u>Registration form</u>.</a>
 
